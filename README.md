@@ -2,8 +2,8 @@
 My emacs config
 
 Themes: 
-[Material](https://github.com/cpaulik/emacs-material-theme)
-[Zenburn](https://github.com/bbatsov/zenburn-emacs)
+[Material](https://github.com/cpaulik/emacs-material-theme),
+[Zenburn](https://github.com/bbatsov/zenburn-emacs),
 [Solarized](https://github.com/bbatsov/solarized-emacs)
 
 Packages:
