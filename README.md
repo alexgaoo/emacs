@@ -2,6 +2,6 @@
 My emacs config
 
 Packages:
-Org-mode
-Magit
+[Org-mode](http://orgmode.org/), 
+[Magit](https://github.com/magit/magit)
 
