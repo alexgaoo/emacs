@@ -1,2 +1,9 @@
 # emacs
-emacs config
+My emacs config
+
+Packages:
+
+Org-mode
+
+Magit
+
